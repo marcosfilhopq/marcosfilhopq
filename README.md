@@ -9,13 +9,12 @@
 
 
 <p style="text-align: justify;">
-  Prazer, meu nome é Marcos, tenho 20 anos, e estou cursando Engenharia de Software na Universidade de Brasília. 
-  Sou um estudante dedicado e apaixonado por tecnologia, com grande interesse na área de programação e análise de dados. 
-  Nesse sentido, tenho aptidões em linguagem C e desenvolvimento web, além de módulos voltados para Big Data, como Python e SQL. 
-  Desse modo, estou comprometido em desenvolver minhas habilidades e conhecimentos na área, buscando oportunidades para aplicar meu aprendizado 
-  e contribuir para projetos desafiadores e soluções inovadoras.
+Prazer, meu nome é Marcos, tenho 20 anos, e estou cursando Engenharia de Software na Universidade de Brasília. 
+Sou um estudante dedicado e apaixonado por tecnologia, com grande interesse na área de programação e análise de dados. 
+Nesse sentido, tenho aptidões em linguagem C e desenvolvimento web, além de módulos voltados para Big Data, como Python e SQL. 
+Desse modo, estou comprometido em desenvolver minhas habilidades e conhecimentos na área, buscando oportunidades para aplicar meu aprendizado 
+e contribuir para projetos desafiadores e soluções inovadoras.
 </p>
-
 
 ---
 
