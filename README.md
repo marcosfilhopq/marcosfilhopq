@@ -1,14 +1,21 @@
 # 👩🏻‍💻 Marcos Filho
 
-
-
 <p align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Desenvolvedor%20Full-Stack;Cursando%203º%20ano%20de%20graduação;Sempre%20buscando%20conhecimento!&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22)](https://git.io/typing-svg)
-
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?lines=Desenvolvedor+Full-Stack;Cursando+3º+ano+de+graduação;Sempre+buscando+conhecimento!&center=true&width=440&height=45&color=F75C7E&vCenter=true&size=22" 
+    alt="Texto animado mostrando especialidades de Marcos Filho"
+  />
 </p>
 
-Prazer, meu nome é Marcos, tenho 20 anos, e estou cursando Engenharia de Software na Universidade de Brasília. Sou um estudante dedicado e apaixonado por tecnologia, com grande interesse na área de programação e análise de dados. Nesse sentido, tenho aptidões em linguagem C e desenvolvimento web, além de módulo voltados para Big Data, como Python e SQL. Desse modo, estou comprometido em desenvolver minhas habilidades e conhecimentos na área, buscando oportunidades para aplicar meu aprendizado e contribuir para projetos desafiadores e soluções inovadoras.
+
+<p style="text-align: justify;">
+  Prazer, meu nome é Marcos, tenho 20 anos, e estou cursando Engenharia de Software na Universidade de Brasília. 
+  Sou um estudante dedicado e apaixonado por tecnologia, com grande interesse na área de programação e análise de dados. 
+  Nesse sentido, tenho aptidões em linguagem C e desenvolvimento web, além de módulos voltados para Big Data, como Python e SQL. 
+  Desse modo, estou comprometido em desenvolver minhas habilidades e conhecimentos na área, buscando oportunidades para aplicar meu aprendizado 
+  e contribuir para projetos desafiadores e soluções inovadoras.
+</p>
+
 
 ---
 
